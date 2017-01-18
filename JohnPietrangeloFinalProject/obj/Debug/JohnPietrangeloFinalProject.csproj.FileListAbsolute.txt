@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\bin\Debug\JohnPietrangeloFinalProject.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\bin\Debug\JohnPietrangeloFinalProject.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\bin\Debug\JohnPietrangeloFinalProject.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\obj\Debug\JohnPietrangeloFinalProject.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\obj\Debug\JohnPietrangeloFinalProject.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangeloFinalProject\JohnPietrangeloFinalProject\obj\Debug\JohnPietrangeloFinalProject.pdb
